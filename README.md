@@ -91,19 +91,9 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meu conhec
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoFarias-SE&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFarias-SE&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoFarias-SE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoFarias-SE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 </p>
