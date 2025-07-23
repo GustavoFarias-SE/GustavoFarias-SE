@@ -2,9 +2,11 @@
 
 **` Estudante de Engenharia de Software`**
 
-💻 Estudante de Engenharia de Software | Java | SQL Atualmente cursando Engenharia de Software, sou Ambicioso por tecnologia e desenvolvimento de sistemas. Meu foco principal está na linguagem Java, onde venho aprimorando minhas habilidades para criar soluções eficientes e escaláveis. Além disso, possuo conhecimentos com SQL, o que me permite projetar e gerenciar bancos de dados de maneira eficaz.
+💻 Estudante de Engenharia de Software, tenho conhecimento avançado em Java e MySQL, além de experiência com os frameworks Spring, Spring Boot e JavaFX. Também possuo conhecimentos básicos em HTML e CSS, que me permitem ter uma boa noção de integração entre front-end e back-end.
 
-Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir com projetos inovadores. Acredito que a tecnologia tem o poder de transformar vidas, e quero fazer parte desse impacto!
+Atualmente estou aprofundando meus estudos em desenvolvimento de aplicações web com foco em boas práticas, arquitetura limpa e APIs REST.
+
+Busco uma oportunidade de estágio onde eu possa aplicar e ampliar meus conhecimentos, contribuir com projetos reais e evoluir junto com a equipe. Estou sempre aberto a aprender, crescer e colaborar.
 
 <p align="left">
     </a> 
